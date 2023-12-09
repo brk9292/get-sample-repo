@@ -1,4 +1,4 @@
-git status
+git status --> prints the status of the Git Reposity
 git init
 git config --global user.name "LETS KODE IT"
 git config --global user.email letskodeit@gmail.com
