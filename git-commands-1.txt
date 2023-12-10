@@ -16,7 +16,7 @@ git push origin main					-> Push to main branch
 
 ----------------------------------------------------------------------------------------------------------------
 
-<<<<<<< HEAD
+
 *Scenario 1:
 
 First Release -> Done
@@ -44,7 +44,7 @@ Person B -> Pull from master to private branch, merge code to master
 
 1 Person -> Two different features
 Work on Different Branches
-=======
+
 
 
 
@@ -76,4 +76,7 @@ Work on Different Branches
 			 |				      		   |
 			 PrivateBranch2-----------------------------------Pull and then merge
 
+<<<<<<< HEAD
+>>>>>>> privatebranch1
+=======
 >>>>>>> privatebranch1
