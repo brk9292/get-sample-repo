@@ -15,3 +15,35 @@ git remote add origin <GitHub Repository URL>		-> Establish connection to the re
 git push origin main					-> Push to main branch
 
 ----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   			 PrivateBranch1----------------------
+			 | 				    |
+ 			 |                                  |
+----------------------Master-----------Release-----------Master-----------Master-----------Release-----------Master--------------
+                         | 				    		   |
+			 |				      		   |
+			 PrivateBranch2-----------------------------------Pull and then merge
+
